@@ -8,7 +8,7 @@ Program:
 
 ## Technologies used
 1. python 3.9
-2. PyCharm
+2. PyCharm 2020
 
 ---
 ## Licence & copyright
