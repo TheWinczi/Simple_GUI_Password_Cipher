@@ -1,4 +1,4 @@
-# Simple GUI Password Encryptor
+# Simple GUI Password Cypher
 
 Simple password encryptor using GUI in python
 
